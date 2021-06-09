@@ -3,8 +3,8 @@ export default {
     name: 'Good vibes',
     by: 'Spotify',
     numberOfLikes: 38,
-    imageUri: 'https://upload.wikimedia.org/wikipedia/vi/c/c0/Buongdoitaynhauramtp.jpg',
-    artistsHeadline: 'Son Tung M-TP',
+    imageUri: 'https://images.discovery-prod.axs.com/2021/02/the-weeknd-tickets_03-18-22_17_601b00109b8c7.jpg',
+    artistsHeadline: 'The Weeknd',
     songs: [{
       id: '1',
       imageUri: 'https://i1.sndcdn.com/artworks-T5KqOdidfrbpyddU-sGIJsA-t500x500.jpg',
@@ -17,9 +17,9 @@ export default {
       artist: 'Linkin Park',
     },{
       id: '3',
-      imageUri: 'https://images.discovery-prod.axs.com/2021/02/the-weeknd-tickets_03-18-22_17_601b00109b8c7.jpg',
-      title: 'After Hours',
-      artist: 'The Weeknd',
+      imageUri: 'https://upload.wikimedia.org/wikipedia/vi/c/c0/Buongdoitaynhauramtp.jpg ',
+      title: 'Buong Doi Tay Nhau Ra',
+      artist: 'Son Tung M-TP',
     },{
       id: '4',
       imageUri: 'https://i.pinimg.com/originals/e6/1f/cf/e61fcf802803773c3dc3b6c42946b7a0.jpg',
